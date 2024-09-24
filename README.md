@@ -13,11 +13,10 @@ Redux Management: Implemented using a Redux-like architecture, ensuring predicta
 - Combine for reactive programming
 - Redux pattern for state management
 
-  
+# Clone the repository:
+
 Getting Started
 To run this project locally:
-
-# Clone the repository:
 
 git clone https://github.com/RajZadafiya/TheRick-Morty.git
 Open the project in Xcode.

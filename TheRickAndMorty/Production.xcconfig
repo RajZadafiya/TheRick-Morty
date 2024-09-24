@@ -1,0 +1,11 @@
+//
+//  Production.xcconfig
+//  TheRickAndMorty
+//
+//  Created by Raj _Zadafiya    on 07/09/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_URL=https://rickandmortyapi.com/api/character

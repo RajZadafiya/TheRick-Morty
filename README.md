@@ -16,8 +16,7 @@ Redux Management: Implemented using a Redux-like architecture, ensuring predicta
 # Clone the repository:
 
 - Getting Started
-- To run this project locally:
-- git clone https://github.com/RajZadafiya/TheRick-Morty.git
+- To run this project locally: git clone https://github.com/RajZadafiya/TheRick-Morty.git
 - Open the project in Xcode.
 - Build and run the app on your preferred simulator or device.
 
